@@ -1,0 +1,2 @@
+#nihao
+print(hello,world)
